@@ -130,4 +130,4 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 
 ---
 
-Vielä lopuksi linkki [github-komennoille](https://banskku.github.io/github/)
+### Vielä lopuksi linkki [github-komennoille](https://banskku.github.io/github/)
