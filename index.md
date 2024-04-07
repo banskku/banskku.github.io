@@ -127,3 +127,9 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 ### **Kuva tekstieditorista**
 
 ![alt text](<Screenshot 2024-03-27 171052.png>)
+
+---
+
+### Linkki toiselle sivustolle
+
+github.md
